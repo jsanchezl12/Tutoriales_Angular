@@ -1,0 +1,17 @@
+crear app-- ng new mynewapp
+
+instalar bootstrap --- npm install --save bootstrap
+
+Remplazar en angular.json
+"styles": [
+   "node_modules/bootstrap/dist/css/bootstrap.min.css",
+   "src/styles.css"
+],
+
+Iniciar app --- ng serve
+
+iniciar Test --- ng test
+
+Instalar Faker --- npm install @faker-js/faker --save-dev
+
+repo base --- https://github.com/MISW-4104-Web/202210_BasicApplication/tree/master/src/app/course
